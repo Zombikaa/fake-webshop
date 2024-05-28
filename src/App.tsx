@@ -29,6 +29,7 @@ const App = () => {
     <main className='flex h-screen'>
         <Routes>
             <Route element={<RootLayout />}>
+                <Route index path='/' element={<Eszkozok />}/>
                 <Route index path='/eszkozok' element={<Eszkozok />}/>
                 <Route index path='/ruhak' element={<Ruhak />}/>
                 <Route index path='/elelmiszerek' element={<Elelmiszerek />}/>
