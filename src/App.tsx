@@ -23,7 +23,7 @@ import Tejfol from './_root/Leiras/Tejfol'
 import Tej from './_root/Leiras/Tej'
 import Sonka from './_root/Leiras/Sonka'
 import Sajt from './_root/Leiras/Sajt'
-import GYIK from './_root/Oldalak/GYIK'
+import GYIK from './_root/oldalak/GYIK'
 
 const App = () => {
   return (
