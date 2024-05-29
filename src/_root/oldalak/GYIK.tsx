@@ -1,7 +1,7 @@
 
 const GYIK = () => {
   return (
-    <div>
+    <div className="mx-auto">
       <h1 className="text-center font-extrabold text-[40px]">Gyakran Ismételt Kérdések</h1>
       <br />
       <div>
