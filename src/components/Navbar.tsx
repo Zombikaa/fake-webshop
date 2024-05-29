@@ -26,7 +26,7 @@ const Navbar = () => {
       <div>
         <ul className="flex items-center gap-3">
           <li>
-            <img src="/assets/dark-cart.png" width={30} alt="kosar" />
+            <img src="/assets/dark-cart.png" width={30} className="cursor-pointer" alt="kosar" />
           </li>
           <li
             className={`relative flex rounded-full items-center ${
