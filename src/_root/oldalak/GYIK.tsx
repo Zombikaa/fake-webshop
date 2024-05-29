@@ -1,3 +1,5 @@
+import "react" from React
+
 const GYIK = () => {
   return (
     <div>
