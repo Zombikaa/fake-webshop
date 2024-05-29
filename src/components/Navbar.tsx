@@ -59,7 +59,7 @@ const Navbar = () => {
                   ÁSZF
                 </li>
                 <li className="text-center text-blue-600 hover:bg-blue-100 p-2">
-                  GYIK
+                  <Link to={'/gyik'}>GYIK</Link>
                 </li>
                 <hr className="hr-w-full" />
                 <li className="text-center rounded-br-[10px] rounded-bl-[10px] font-semibold text-[#FF0000] hover:bg-red-100 p-2">
