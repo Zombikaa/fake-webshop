@@ -55,6 +55,9 @@ const App = () => {
                 <Route index path='/elelmiszerek/gazda-fustolt-erlelt-sonka-200-szeletelt' element={<Sonka />}/>
                 <Route index path='/elelmiszerek/medve-sajt-tejszines-140-g' element={<Sajt />}/>
 
+                <Route index path='/gyik' element={<GYIK />}/>
+              
+
 
             </Route>
         </Routes>
