@@ -8,13 +8,13 @@ const GYIK = () => {
         <div>
             <h3 className="font-bold text-xl">Lorem?</h3>
             <p className="italic">Lorem ipsum dolor sit amet :)</p>
-            <br>
+            <br />
               <h3 className="font-bold text-xl">Lorem?</h3>
             <p className="italic">Lorem ipsum dolor sit amet :)</p>
-              <br>
+              <br />
               <h3 className="font-bold text-xl">Lorem?</h3>
             <p className="italic">Lorem ipsum dolor sit amet :)</p>
-                <br>
+                <br />
               <h3 className="font-bold text-xl">Lorem?</h3>
             <p className="italic">Lorem ipsum dolor sit amet :)</p>
         </div>
