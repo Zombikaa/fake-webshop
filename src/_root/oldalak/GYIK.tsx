@@ -4,7 +4,7 @@ const GYIK = () => {
   return (
     <div>
       <h1 className="text-center font-extrabold text-[40px]">Gyakran Ismételt Kérdések</h1>
-        <br>
+        <br />
         <div>
             <h3 className="font-bold text-xl">Lorem?</h3>
             <p className="italic">Lorem ipsum dolor sit amet :)</p>
